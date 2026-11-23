@@ -21,7 +21,7 @@ dulwich==0.21.7
 exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1704921103267/work
 executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1698579936712/work
 fastjsonschema==2.19.1
-filelock==3.13.4
+filelock==4.2.1
 idna==3.7
 importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1710971335535/work
 installer==0.7.0
