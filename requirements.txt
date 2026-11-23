@@ -79,7 +79,7 @@ requests-toolbelt==1.0.0
 ruff==0.3.7
 shellingham==1.5.4
 six==1.16.0
-soupsieve==2.5
+soupsieve==4.0
 stack-data @ file:///home/conda/feedstock_root/build_artifacts/stack_data_1669632077133/work
 tomlkit==0.12.4
 tornado @ file:///Users/runner/miniforge3/conda-bld/tornado_1708363156459/work
