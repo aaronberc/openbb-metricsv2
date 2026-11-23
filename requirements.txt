@@ -90,7 +90,7 @@ typing_extensions==4.11.0
 tzdata==2024.1
 update-checker==0.18.0
 urllib3==2.2.1
-virtualenv==20.25.1
+virtualenv==21.14.13
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1704731205417/work
 websocket-client==1.7.0
 xattr==1.1.0
