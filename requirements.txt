@@ -43,7 +43,7 @@ msgpack==1.0.8
 mypy-extensions==1.0.0
 nest_asyncio @ file:///home/conda/feedstock_root/build_artifacts/nest-asyncio_1705850609492/work
 numpy==1.26.4
-oauthlib==3.2.2
+oauthlib==4.0.1
 packaging==24.0
 pandas==2.2.2
 parso @ file:///home/conda/feedstock_root/build_artifacts/parso_1712320355065/work
